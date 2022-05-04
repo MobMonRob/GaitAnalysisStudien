@@ -1,0 +1,13 @@
+[Node Information]
+TYPE=TRIAL
+[TRIAL_INFO]
+CREATIONDATEANDTIME=2022,5,4,14,56,25
+TYPE=SFCM_LAnkle
+DESCRIPTION=This step collects dynamic walking trials that can be processed using the calibrated SCoRE Hip locations, optimized Knee flexion/extension axes and athe nkle joint center.
+SUBJECTS=JanM
+RAWDATALOADSTARTFRAME=0
+RAWDATALOADENDFRAME=0
+RAWDATAEXCLUDEFILES=0
+UNUSEDMARKERS=10
+TOTALGAPS=203
+MARKERSLABELED=85
